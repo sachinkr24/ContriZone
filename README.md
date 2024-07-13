@@ -1,18 +1,18 @@
 # ContriZone
-##About
-ContriZone is a dynamic platform for open-source developers, offering a centralized space to showcase contributions, discover projects, and engage in collaborative events. Join our vibrant community and amplify your impact on the world of open source
 
-##Features
- Discover Projects: Effortlessly find open-source projects based on specific criteria like programming language, tags, and project activity.
+## About
+ContriZone is a dynamic platform for open-source developers, offering a centralized space to showcase contributions, discover projects, and engage in collaborative events. Join our vibrant community and amplify your impact on the world of open source.
 
- Profile Showcase: Create a detailed profile to display your contributions to open-source projects. Your profile will highlight the projects you've worked on and your impact.
+## Features
+- **Discover Projects:** Effortlessly find open-source projects based on specific criteria like programming language, tags, and project activity.
+- **Profile Showcase:** Create a detailed profile to display your contributions to open-source projects. Your profile will highlight the projects you've worked on and your impact.
+- **Contribution Metrics:** Monitor your contributions, including pull requests, commits, and issues opened or resolved.
 
-Contribution Metrics: Monitor your contributions, including pull requests, commits, and issues opened or resolved.
+## Tech Stacks Used
+- **Next.js:** Next.js is a React framework that enables server-side rendering and easy React application development.
+- **TypeScript:** TypeScript adds static typing to JavaScript, providing better developer tooling and code quality.
+- **PNPM:** PNPM is a fast, disk-space-efficient package manager for Node.js projects.
 
-##Techstacks Used:
-Next.js: Next.js is a React framework that enables server-side rendering and easy React application development.
-TypeScript: TypeScript adds static typing to JavaScript, providing better developer tooling and code quality.
-PNPM: PNPM is a fast, disk-space-efficient package manager for Node.js projects.
 
 ## Follow these steps to set up the project locally:
 
