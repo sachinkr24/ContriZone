@@ -22,11 +22,11 @@ ContriZone is a dynamic platform for open-source developers, offering a centrali
 ### 💾 Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/openzone.git
+    git clone https://github.com/your-username/ContriZone.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd openzone
+    cd ContriZone
     ```
 3. **Install dependencies using PNPM:**
     ```bash
